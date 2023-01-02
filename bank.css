@@ -1,0 +1,28 @@
+div{
+   
+   text-align: center;
+ margin-top: 150px;
+ background-color: rgba(0, 255, 0, 0.162);
+ 
+  
+}
+button{
+    background-color: rgb(64, 112, 222);
+}
+.f1{
+margin-left: 32%;
+    height: 350px;
+    
+    width: 500px;
+}
+
+body{
+   background-image: url("./images/micheile-dot-com-SoT4-mZhyhE-unsplash\(1\).jpg");
+}
+.q1{
+    border-radius: 5px;
+}
+.link{
+    text-decoration: none;
+    color: green;
+}
